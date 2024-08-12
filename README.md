@@ -1,6 +1,4 @@
-## Hi there 👋
-
-###My name is Sucheta Mandal 😏
+## Hi there!!! 👋 My name is Sucheta Mandal 😏
 # 💫 About Me:
 - 🎓 BTech in Computer Science and Engineering from Supreme Knowledge Foundation Group of Institutions.<br>🌱 Passionate AIML and Fullstack web developer.<br>🚀 Constant explorer, always eager to learn something new.<br>⚡ Freelancing in web development, UI/UX, AIML, and software solutions.
 
